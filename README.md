@@ -1,1 +1,2 @@
-# compiler_pascal
+Чайка Иван Николаевич, ДВФУ, Б9118-09.03.03пикд, 2021, компилятор pascal написанный на python, при использовании PyCharm перейти в EditConfigurations... 
+и в Parameters вставить #-l -d lexer/tests для теста лексера или #-p -d parse/tests для теста парсера
