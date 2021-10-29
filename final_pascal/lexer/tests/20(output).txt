@@ -1,0 +1,23 @@
+1:1        reserved var        program        program
+1:9        variable        hard        hard
+1:13        separator        ;        ;
+2:2        reserved var        var        var
+2:6        variable        kc24        kc24
+2:10        separator        ,        ,
+2:12        variable        zg        zg
+2:14        separator        ,        ,
+2:16        variable        cs        cs
+2:18        separator        :        :
+2:20        reserved var        integer        integer
+2:27        separator        ;        ;
+3:1        reserved var        begin        begin
+4:2        variable        g        g
+4:4        assigner        :=        :=
+4:7        variable        v        v
+4:9        operation        -        -
+4:11        variable        b        b
+4:13        operation        +        +
+4:15        real        54.1        54.1
+4:19        separator        ;        ;
+5:1        reserved var        end        end
+5:4        separator        .        .

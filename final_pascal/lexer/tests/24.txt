@@ -1,0 +1,7 @@
+1:1        integer8        &17        15
+1:4        operation        +        +
+1:5        integer16        $123        291
+1:9        operation        -        -
+1:10        integer2        %1001        9
+1:15        operation        +        +
+1:16        integer        10        10

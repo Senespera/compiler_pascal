@@ -1,0 +1,5 @@
+4:1        separator        (        (
+4:2        operation        *        *
+4:3        variable        deskil        deskil
+4:10        operation        *        *
+4:11        separator        )        )

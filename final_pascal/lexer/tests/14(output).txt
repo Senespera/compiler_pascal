@@ -1,0 +1,2 @@
+1:1        reserved var        begin        begin
+2:1        variable        wordz        wordz

@@ -1,0 +1,4 @@
+1:1        string        ''        ''
+2:1        string        'abc'        'abc'
+3:1        string        'v@$12'        'v@$12'
+4:1        error: 'sfx

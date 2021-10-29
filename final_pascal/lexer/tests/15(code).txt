@@ -1,0 +1,10 @@
+abc + defg
+5+8
+-
+*
+**
+/
+div
+mod
+k > pop
+1<2

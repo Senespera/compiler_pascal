@@ -1,0 +1,5 @@
+program hard;
+	var kc24, zg, cs: integer;
+begin
+	g := v - b + 54.1;
+end.
